@@ -1,0 +1,20 @@
+========================================================
+  10-FOLD CROSS VALIDATION – METRICS SUMMARY
+========================================================
+Fold  1 | Acc: 0.9978 | F1: 0.9216 | Prec: 0.9967 | Rec: 0.8928 | Time: 530.0s
+Fold  2 | Acc: 0.9979 | F1: 0.9513 | Prec: 0.9460 | Rec: 0.9640 | Time: 653.0s
+Fold  3 | Acc: 0.9977 | F1: 0.9222 | Prec: 0.9975 | Rec: 0.8893 | Time: 369.5s
+Fold  4 | Acc: 0.9976 | F1: 0.9265 | Prec: 0.9935 | Rec: 0.8991 | Time: 367.7s
+Fold  5 | Acc: 0.9979 | F1: 0.9320 | Prec: 0.9960 | Rec: 0.9026 | Time: 507.6s
+Fold  6 | Acc: 0.9976 | F1: 0.9370 | Prec: 0.9937 | Rec: 0.9053 | Time: 346.7s
+Fold  7 | Acc: 0.9979 | F1: 0.9274 | Prec: 0.9944 | Rec: 0.8975 | Time: 404.9s
+Fold  8 | Acc: 0.9978 | F1: 0.9318 | Prec: 0.9962 | Rec: 0.8994 | Time: 554.3s
+Fold  9 | Acc: 0.9980 | F1: 0.9536 | Prec: 0.9885 | Rec: 0.9285 | Time: 461.3s
+Fold 10 | Acc: 0.9977 | F1: 0.9215 | Prec: 0.9955 | Rec: 0.8929 | Time: 682.5s
+--------------------------------------------------------
+Mean Accuracy  : 0.9978  (+/- 0.0001)
+Mean F1-Score  : 0.9325  (+/- 0.0111)
+Mean Precision : 0.9898  (+/- 0.0148)
+Mean Recall    : 0.9071  (+/- 0.0216)
+Best Fold      : Fold 9  (Macro F1: 0.9536)
+Total Time     : 5001.2s  (83.35 min)
